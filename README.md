@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-abn" alt="ayoub-abn" /></a> </p>
 
-- 🔭 I’m currently working on **cursus 42**
+- 🔭 I’m currently working on **Get Next Line**
 
 - 🌱 I’m currently learning **js,php,c,java**
 
