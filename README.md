@@ -61,6 +61,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-abn&" alt="ayoub-abn" /></p>
 
+
+
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -92,7 +95,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: ayoub-abn
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
