@@ -1,8 +1,4 @@
-<style>
-  *{
-    display: inblock;
-  }
-</style>
+
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
 <h1 align="center">Hi 👋, I'm Ayoub Abdenour</h1>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
@@ -17,7 +13,11 @@
   - 💬 Ask me about **c,c#,php**
   
   - 📫 How to reach me **ayoub111abn@gmail.com**
-    
+</div>
+  <div >
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" /></a>
+  </div>
+</div>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://linkedin.com/in/ayoub abdenour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub abdenour" height="30" width="40" /></a>
@@ -31,8 +31,5 @@
     <p>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub-abn&show_icons=true&locale=en&layout=compact" alt="ayoub-abn" />
     </p>
-  </div>
-  <div >
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" /></a>
-  </div>
-</div>
+ 
+
