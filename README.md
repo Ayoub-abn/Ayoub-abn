@@ -1,7 +1,7 @@
 <div style="maring: auto; ">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" /></a>
   
-<\div>
+</div>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
 <h1 align="center">Hi 👋, I'm Ayoub Abdenour</h1>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
