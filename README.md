@@ -1,29 +1,35 @@
-<style>
-  .dev{
-    display: flex ;
-    width:100%;
-  }
-  .dev *{
-    widrh: 50%;
-  }
-</style>
+<style> 
+  .dev {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* This ensures vertical alignment */
+}
+
+.info, .stats {
+  flex: 1; /* Both divs take equal space */
+  padding: 10px;
+}
+
+.stats img {
+  max-width: 100%;
+}
+
+ </style>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
 <h1 align="center">Hi 👋, I'm Ayoub Abdenour</h1>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
 <div class="dev">
-  <div>
-  - 🔭 I’m currently working on **philo**
-  
-  - 🌱 I’m currently learning **js,php,c,java**
-  
-  - 👨‍💻 All of my projects are available at [https://github.com/Ayoub-abn/Ayoub-abn](https://github.com/Ayoub-abn/Ayoub-abn)
-  
-  - 💬 Ask me about **c,c#,php**
-  
-  - 📫 How to reach me **ayoub111abn@gmail.com**
-</div>
-  <div >
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" /></a>
+  <div class="info">
+    <p>🔭 I’m currently working on <strong>philo</strong></p>
+    <p>🌱 I’m currently learning <strong>js, php, c, java</strong></p>
+    <p>👨‍💻 All of my projects are available at <a href="https://github.com/Ayoub-abn/Ayoub-abn">GitHub</a></p>
+    <p>💬 Ask me about <strong>c, c#, php</strong></p>
+    <p>📫 How to reach me: <strong>ayoub111abn@gmail.com</strong></p>
+  </div>
+  <div class="stats">
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" />
+    </a>
   </div>
 </div>
     <h3 align="left">Connect with me:</h3>
