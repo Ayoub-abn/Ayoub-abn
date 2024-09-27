@@ -28,7 +28,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub-abn&show_icons=true&locale=en&layout=compact" alt="ayoub-abn" />
     </p>
   </div>
-  <div style="maring: 0 auto; ">
+  <div >
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aabdenou" alt="aabdenou's 42 stats" /></a>
   </div>
 </div>
