@@ -1,18 +1,21 @@
 <style> 
   .dev {
-  display: flex;
+  display: inline-block;
   justify-content: space-between;
   align-items: flex-start; /* This ensures vertical alignment */
-}
+/* }
 
-.info, .stats {
-  flex: 1; /* Both divs take equal space */
-  padding: 10px;
-}
+/* .info, .stats { */
+/*   flex: 1; /* Both divs take equal space */ 
+/*   padding: 10px; */
+/* } */
 
-.stats img {
-  max-width: 100%;
-}
+/* .stats img { */
+/*   max-width: 100%; */
+/* } */ 
+  .stats {
+    fo
+  }
 
  </style>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
