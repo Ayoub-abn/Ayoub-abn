@@ -29,10 +29,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub-abn&show_icons=true&locale=en&layout=compact" alt="ayoub-abn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub-abn&show_icons=true&locale=en" alt="ayoub-abn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-abn&" alt="ayoub-abn" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoub-abn" alt="ayoub-abn" /></a> </p>
-
