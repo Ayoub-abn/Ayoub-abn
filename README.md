@@ -1,8 +1,16 @@
-
+<style>
+  .dev{
+    display: flex ;
+    width:100%;
+  }
+  .dev *{
+    widrh: 50%;
+  }
+</style>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
 <h1 align="center">Hi 👋, I'm Ayoub Abdenour</h1>
 <h3 align="center">A passionate frontend developer and desktop from morocco</h3>
-<div style="display: flex ;">
+<div class="dev">
   <div>
   - 🔭 I’m currently working on **philo**
   
