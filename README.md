@@ -1,4 +1,4 @@
-<h1>👤: I am ayoub  and this is my github</h1>
+<h1 align="center" >👤: I am ayoub  and this is my github</h1>
 
 ###
 
@@ -45,10 +45,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
 
 ###
